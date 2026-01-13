@@ -2,4 +2,10 @@ music-trends-analysis/.venv/
 music-trends-analysis/.env/
 music-trends-analysis/data/raw
 music-trends-analysis/data/processed
+
+# Cache and Trash:
 **/__pycache__/
+.DS_Store
+**/.DS_Store/
+Thumbs.db
+**/Thumbs.db
